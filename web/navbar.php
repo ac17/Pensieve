@@ -2,9 +2,10 @@
       <a class="navmenu-brand" href="#">YHack</a>
       <ul class="nav navmenu-nav">
         <li><a href="index.php">About</a></li>
-        <li ><a href="./">Stuff</a></li>
-        <li><a href="../navmenu-reveal/">Reveal</a></li>
-        <li><a href="../navbar-offcanvas/">Off canvas navbar</a></li>
+        <li ><a href="visualizations.php">Tweet Visualizations</a></li>
+        <li><a href="sentimentanalysis.php">Sentiment Analysis</a></li>
+        <li><a href="bulletin.php">Anonymous Bulletin Board</a></li>
+        <li><a href="contact.php">Contact Us</a></li>
       </ul>
     </div>
 
