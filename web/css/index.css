@@ -4,7 +4,7 @@ h1, h2, h3 {
 }
 
 body {
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 /*
@@ -59,4 +59,11 @@ body {
 
 #home-page-brain {
 	padding-left: 20px;
+}
+
+#catchphrase {
+	background-color: black;
+	width: 102%;
+	left: 0px;
+	right: 0px;
 }

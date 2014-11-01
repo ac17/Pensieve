@@ -23,6 +23,7 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
 
         <div class="cover-container">
 
+          <!-- banner -->
           <div class="inner cover">
             <table id="home-page-table">
               <tr width="100%">
@@ -36,6 +37,11 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
                 </td>
               </tr>
             </table>
+          </div>
+
+          <!-- Catchphrase -->
+          <div id="catchphrase">
+            <h1>JOIN THE EFFORT. RAISE AWARENESS.</h1>
           </div>
 
           <div class="mastfoot">
