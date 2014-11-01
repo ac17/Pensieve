@@ -60,7 +60,7 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
             <!-- Slide wrapper -->
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="vis-background.png">
+                <img src="img/vis-background.png">
                 <div class="carousel-caption">
                   <h1>thought visualizations</h1>
                   <p>See what your peers are feeling with our simple Twitter visualizations.</p>
