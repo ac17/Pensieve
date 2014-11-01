@@ -28,7 +28,7 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
             <table id="home-page-table">
               <tr width="100%">
                 <td class="text-right">
-                  <h1 class="cover-heading">muse</h1>
+                  <h1 class="cover-heading">pensieve</h1>
                   <p class="lead">Description. Something will go here.</p>
                   <a href="#" class="btn btn-lg btn-default">Learn more</a>
                 </td>
@@ -39,13 +39,54 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
             </table>
           </div>
 
+          <!-- glide scroll arrow -->
           <div class="mastfoot">
             <div class="inner">
-              <a class="arrow-wrap" href="#content">
+              <a class="arrow-wrap" href="#carousel-about">
                 <span class="arrow"></span>
               </a>
-              <p class="text-center">Developed by Angelica Chen and Anna Matlin, Princeton University</p>
             </div>
+          </div>
+
+          <!-- about -->
+          <div id="carousel-about" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="carousel-about" data-slide-to="0" class="active"></li>
+              <li data-target="carousel-about" data-slide-to="1" class="active"></li>
+              <li data-target="carousel-about" data-slide-to="2" class="active"></li>
+            </ol>
+
+            <!-- Slide wrapper -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="vis-background.png">
+                <div class="carousel-caption">
+                  <h1>thought visualizations</h1>
+                  <p>See what your peers are feeling with our simple Twitter visualizations.</p>
+                  <button class="btn btn-white">Twitter Visualizations</button>
+                </div>
+              </div>
+              <div class="item">
+                <div class="carousel-caption">
+                </div>
+              </div>
+              <div class="item">
+                <div class="carousel-caption">
+                </div>
+              </div>
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-about" role="button" slide="prev">
+              <span class="glyphicon glyphicon-chevron-left"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#carousel-about" role="button" data-slide="next">
+                  <span class="glyphicon glyphicon-chevron-right"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
           </div>
 
         </div>
