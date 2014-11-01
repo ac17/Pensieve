@@ -5,3 +5,5 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <!-- Jasny Bootstrap JavaScript -->
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/js/jasny-bootstrap.min.js"></script>
+<!-- Arrow Glide Scroll -->
+	<script src="js/arrow.js"></script>

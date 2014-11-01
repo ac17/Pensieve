@@ -41,6 +41,9 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
 
           <div class="mastfoot">
             <div class="inner">
+              <a class="arrow-wrap" href="#content">
+                <span class="arrow"></span>
+              </a>
               <p class="text-center">Developed by Angelica Chen and Anna Matlin, Princeton University</p>
             </div>
           </div>
