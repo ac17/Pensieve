@@ -39,11 +39,6 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
             </table>
           </div>
 
-          <!-- Catchphrase -->
-          <div id="catchphrase">
-            <h1>JOIN THE EFFORT. RAISE AWARENESS.</h1>
-          </div>
-
           <div class="mastfoot">
             <div class="inner">
               <p class="text-center">Developed by Angelica Chen and Anna Matlin, Princeton University</p>
@@ -54,6 +49,11 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
 
       </div>
 
+    </div>
+
+    <!-- Catchphrase -->
+    <div id="catchphrase">
+      <h1>JOIN THE EFFORT. RAISE AWARENESS.</h1>
     </div>
     <?php include_once('foot.php'); ?>
   </body>
