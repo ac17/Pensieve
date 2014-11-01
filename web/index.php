@@ -47,8 +47,15 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
               </a>
             </div>
           </div>
+        </div>
 
-          <!-- about -->
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- about -->
           <div id="carousel-about" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
@@ -87,13 +94,6 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
                   <span class="sr-only">Next</span>
                 </a>
               </div>
-          </div>
-
-        </div>
-
-      </div>
-
-    </div>
 
     <!-- Catchphrase -->
     <div id="catchphrase">
