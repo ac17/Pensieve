@@ -24,7 +24,7 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
         <div class="cover-container">
 
           <div class="inner cover">
-            <table>
+            <table id="home-page-table">
               <tr width="100%">
                 <td class="text-right">
                   <h1 class="cover-heading">YHack Project!</h1>
