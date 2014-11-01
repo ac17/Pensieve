@@ -27,12 +27,12 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
             <table id="home-page-table">
               <tr width="100%">
                 <td class="text-right">
-                  <h1 class="cover-heading">YHack Project!</h1>
+                  <h1 class="cover-heading">muse</h1>
                   <p class="lead">Description. Something will go here.</p>
                   <a href="#" class="btn btn-lg btn-default">Learn more</a>
                 </td>
                 <td class="text-right" height="100%">
-                  <img src="img/gradient-brain.png" height="40%">
+                  <img src="img/gradient-brain.png" id="home-page-brain" height="40%">
                 </td>
               </tr>
             </table>
