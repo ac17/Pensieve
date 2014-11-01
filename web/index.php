@@ -24,6 +24,7 @@ $app->run(); */
 <!DOCTYPE html>
 <?php include_once('head.php'); ?>
 <body>
+  <?php include_once('navbar.php'); ?>
 
     <div class="site-wrapper">
 
