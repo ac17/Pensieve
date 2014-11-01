@@ -42,11 +42,3 @@
     border: none;
   }
 }
-
-/*
- * Inner Cover (Front Page)
- */
- .inner .cover {
- 	position: relative;
- 	height: 40%;
- }
