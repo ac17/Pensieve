@@ -11,6 +11,9 @@
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
 
+    <!-- Jasny Bootstrap CSS -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/css/jasny-bootstrap.min.css">
+
     <!-- Custom styles for cover template -->
     <link href="css/cover.css" rel="stylesheet">
     <link href="css/index.css" rel="stylesheet">
