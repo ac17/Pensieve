@@ -31,7 +31,7 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
                   <p class="lead">Description. Something will go here.</p>
                   <a href="#" class="btn btn-lg btn-default">Learn more</a>
                 </td>
-                <td class="text-left" height="100%">
+                <td class="text-right" height="100%">
                   <img src="img/gradient-brain.png" height="40%">
                 </td>
               </tr>
