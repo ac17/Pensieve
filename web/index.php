@@ -29,7 +29,7 @@ $app->register(new Silex\Provider\MonologServiceProvider(), array(
               <tr width="100%">
                 <td class="text-right">
                   <h1 class="cover-heading">pensieve</h1>
-                  <p class="lead">Description. Something will go here.</p>
+                  <p class="lead">The social mental wellness campaign. Join us in solidarity.</p>
                   <a href="#" class="btn btn-lg btn-default">Learn more</a>
                 </td>
                 <td class="text-right" height="100%">

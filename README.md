@@ -1,3 +1,3 @@
-# YHack Project
+# Campus Pensieve
 
 Angelica Chen, Anna Matlin
